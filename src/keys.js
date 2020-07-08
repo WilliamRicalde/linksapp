@@ -1,8 +1,8 @@
 module.exports = {
     database: {
-        host: 'localhost',
-        user: 'root',
-        password: 'root',
-        database: 'db_links'
+        host: 'us-cdbr-east-02.cleardb.com',
+        user: 'bf2a4d21a5cced',
+        password: 'c875fb63',
+        database: 'heroku_59998a32e2b66ce'
     }
 };
