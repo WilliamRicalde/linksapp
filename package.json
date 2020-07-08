@@ -22,7 +22,7 @@
   },
   "scripts": {
     "dev": "nodemon src/",
-    "start": "node ."
+    "start": "node src"
   },
   "keywords": [],
   "author": "",
