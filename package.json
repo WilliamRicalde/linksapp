@@ -21,7 +21,8 @@
     "nodemon": "^2.0.4"
   },
   "scripts": {
-    "dev": "nodemon src/"
+    "dev": "nodemon src/",
+    "start": "node ."
   },
   "keywords": [],
   "author": "",
